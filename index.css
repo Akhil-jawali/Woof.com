@@ -1,0 +1,114 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#a{
+    background: rgb(230, 63, 63);
+    color: white;
+    width: 100%;
+}
+.navbar-brand{
+    font-family: 'Titan One';
+}
+.navbar-brand span{
+    font-size: 2.5rem;
+    width: 3rem;
+}
+a.logo{
+    font-size: x-large;
+    font-weight: bolder;
+}
+a.nav-link{
+    font-size: large;
+    color: white;
+}
+button.first{
+    margin: 5px 10px 5px 15px;
+}
+#b :hover{
+    color: black;
+}
+#c{
+    font-family: 'Josefin Sans';
+    padding: 3% 10%;
+    width: 100%;
+}
+#c h1{
+    font-size:4.5rem;
+}
+#c img{
+    margin: 5%;
+}
+.buy{
+    width: 12rem;
+    height: 4rem;
+    text-align: center;
+}
+span.download {
+    font-size: larger;
+    font-weight: bold;
+}
+#features{
+    text-align: center;
+    font-family: 'josenfin sans';
+    padding:3% 8% ;
+    width: 100%;
+}
+.features{
+    padding:;
+}
+#features i{
+    font-size: 450%;
+    color: rgb(247, 67, 67);
+    padding-bottom: 1rem;
+    padding-top: 2rem;
+}
+#features i:hover{
+    color: red;
+    transition: 2s;
+}
+#features h1{
+    font-weight: bolder ;
+}
+#features span{
+    color: rgb(100, 95, 95);
+    font-size: larger;
+}
+#pricing{
+    padding: 1% 10% ;
+    background: rgb(230, 63, 63);
+    align-items: center;
+    margin: auto;
+    width: 100%;
+}
+.space{
+    margin: 2% 4% 5% 4%;
+    align-items: center;
+}
+h2{
+    font-family: 'Josefin Sans';
+    font-weight: bolder;
+    color: white;
+    padding: 2% 1% 1% 1% ;
+}
+.all{
+    border-radius:2rem;
+    font-size: 150%;
+    margin: 5% 2% 3% 25%;
+    width: 45%;
+}
+.contact{
+    width: 100%;
+    text-align: center;
+    margin-top: 4%;
+    
+}
+.contact a{
+    color: #000;
+}
+.contact i{
+    font-size: 160%;
+    margin-right: 1%;
+    margin-top: 1.5%;
+    margin-bottom: 2%;
+}
